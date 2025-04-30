@@ -1,1 +1,3 @@
-# mcp-servers-
+# MCP Servers
+
+A curated list of awesome Model Context Protocol (MCP) servers.
